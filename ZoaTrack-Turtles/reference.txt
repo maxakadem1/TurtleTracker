@@ -1,0 +1,45 @@
+reference.txt
+
+***** Project Detail
+
+Title: Tracking Olive Ridley turtles off Cape York Peninsula using satellite tags
+Description: Four endangered Olive Ridley turtles were washed up on a beach on the west coast of Cape York peninsula ensnared in ghost nets. The animals were rehabilitated at a facility at Pennefather. Upon release they were fitted with an Argos satellite transmitter to determine their movements and survival potential.
+Species Scientific Name: lepidochelys olivacea
+Species Common Name: olive ridley turtle
+Spatial Coverage Description: Cape York Peninsula
+SRS Identifier: EPSG:3577
+Crosses 180: false
+ZoaTrack Data Access Type: OPEN
+Data Licence Identifier: CC-BY
+Data Licence Title: Creative Commons Attribution License
+Data Licence URL: http://creativecommons.org/licenses/by/3.0/
+Data Creators:
+Dr Ross Dwyer
+Dr Hamish Campbell
+
+***** Animal Detail
+
+Animal Id: 33
+Project Animal Id: Janie
+Animal Name: Janie
+ZoaTrack Colour: #BC80BD
+*****
+
+Animal Id: 34
+Project Animal Id: Nickolas
+Animal Name: Nickolas
+ZoaTrack Colour: #CCEBC5
+*****
+
+Animal Id: 35
+Project Animal Id: emil
+Animal Name: emil
+ZoaTrack Colour: #FFED6F
+*****
+
+Animal Id: 36
+Project Animal Id: Max
+Animal Name: Max
+ZoaTrack Colour: #8DD3C7
+*****
+
