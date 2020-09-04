@@ -1,2 +1,2 @@
 # TurtleTracker
-TurtleSorter. Sorting system for txt file
+TurtleSorter. Sorting system for txt,csv files
